@@ -1,0 +1,18 @@
+{
+  "name": "thebigbangtheory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projeto2.js",
+  "scripts": {
+    "start": "node projeto2.js"
+  },
+  "keywords": [],
+  "author": "Deise",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
